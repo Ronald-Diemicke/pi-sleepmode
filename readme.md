@@ -8,6 +8,8 @@ Readme for sleep mode
 
 - Then Run: 
 `sudo systemctl daemon-reload`
+
+- Then:
 `sudo systemctl enable sleepmode.service`
 
 
